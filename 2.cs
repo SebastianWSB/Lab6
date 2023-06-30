@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace ZLosowanie_przedmiotu_RPG
+namespace Losowanie_przedmiotu_RPG
 {
     enum KlasaRzadkosci
     {
-        Powrzechny,
+        Powszechny,
         Rzadki,
         Unikalny,
         Epicki
